@@ -1,0 +1,14 @@
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/config/RedisRepositoryConfig.java
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/api/CommonResult.java
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/api/IErrorCode.java
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/Oauth2GatewayApplication.java
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/component/RestAuthenticationEntryPoint.java
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/config/IgnoreUrlsConfig.java
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/config/ResourceServerConfig.java
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/constant/RedisConstant.java
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/component/RestfulAccessDeniedHandler.java
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/filter/IgnoreUrlsRemoveJwtFilter.java
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/authorization/AuthorizationManager.java
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/api/ResultCode.java
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/filter/AuthGlobalFilter.java
+/Users/wisehead/github/springcloud-learning/micro-oauth2/micro-oauth2-gateway/src/main/java/com/macro/cloud/constant/AuthConstant.java

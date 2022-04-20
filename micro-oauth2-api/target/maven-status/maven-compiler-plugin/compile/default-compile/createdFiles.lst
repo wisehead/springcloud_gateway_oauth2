@@ -1,0 +1,5 @@
+com/macro/cloud/controller/UserController.class
+com/macro/cloud/holder/LoginUserHolder.class
+com/macro/cloud/domain/UserDTO.class
+com/macro/cloud/controller/HelloController.class
+com/macro/cloud/Oauth2ApiApplication.class
